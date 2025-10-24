@@ -1,0 +1,11 @@
+coding_task:
+  description: >
+    Write and execute {programming_language} code to solve the following question:
+    "{question}".
+  expected_output: >
+    Structured information including the question, code, language, and execution result.
+  agent: coder
+  input_variables:
+    - programming_language
+    - question
+  output_file: output/code_and_output.json
