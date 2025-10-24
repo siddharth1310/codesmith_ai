@@ -248,7 +248,3 @@ Use it freely for research and development.
 ## 👤 Author
 
 Created by **Siddharth Singh**. Find me on [LinkedIn](https://www.linkedin.com/in/siddharth-singh-021b34193/)
-
-```
-
-```
